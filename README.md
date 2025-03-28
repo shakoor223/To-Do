@@ -24,3 +24,9 @@ cd todo-app
 npm install
 
 npm run dev
+
+🌟 Show Some Love
+If you like this project, feel free to ⭐ the repository! 😊
+
+Let me know if you want any modifications! 🚀
+
